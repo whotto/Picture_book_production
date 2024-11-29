@@ -12,13 +12,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# 生成的故事和图片（只保留示例文件）
+# 生成的故事和图片（保留三个示例故事）
 generated_stories/*
 !generated_stories/一只勇敢的小兔子_20241129_123224.md
+!generated_stories/森林里的魔法学校_20241129_123310.md
+!generated_stories/小猫咪的环球旅行_20241129_123352.md
 generated_images/*
-!generated_images/一只勇敢的小兔子_scene_1.png
-!generated_images/一只勇敢的小兔子_scene_2.png
-!generated_images/一只勇敢的小兔子_scene_3.png
+!generated_images/一只勇敢的小兔子_scene_*.png
+!generated_images/森林里的魔法学校_scene_*.png
+!generated_images/小猫咪的环球旅行_scene_*.png
 
 # IDE配置文件
 .vscode/
