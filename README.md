@@ -120,7 +120,7 @@ python story_generator.py test.md
 
 - 博客：[天天悦读](https://yuedu.biz/)
 - Email：[grow8org@gmail.com](mailto:grow8org@gmail.com)
-- GitHub：[PDF_reflective_translator](https://github.com/whotto/PDF_reflective_translator)
+- GitHub：[GitHub 仓库](https://github.com/whotto/Picture_book_production)
 
 ## 许可证
 
