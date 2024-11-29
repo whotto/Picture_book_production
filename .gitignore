@@ -1,0 +1,35 @@
+# 环境配置文件（包含敏感信息）
+.env
+
+# Python虚拟环境
+venv/
+env/
+.venv/
+ENV/
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 生成的故事和图片（示例文件除外）
+generated_stories/*
+!generated_stories/example_story.md
+generated_images/*
+!generated_images/example_image.png
+
+# IDE配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
