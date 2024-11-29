@@ -12,12 +12,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# 生成的故事和图片（示例文件除外）
-generated_stories/*
-!generated_stories/example_story.md
-generated_images/*
-!generated_images/example_image.png
-
 # IDE配置文件
 .vscode/
 .idea/
