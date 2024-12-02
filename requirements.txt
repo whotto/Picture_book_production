@@ -4,7 +4,7 @@ fal-client==0.5.6           # Fal.ai API client
 python-dotenv==0.19.0       # Environment variables management
 aiohttp==3.9.1              # Async HTTP client
 websockets==12.0            # WebSocket client
-typing-extensions==4.8.0    # Type hints support
+typing-extensions==4.9.0    # Type hints support
 requests==2.31.0            # HTTP client
 asyncio==3.4.3              # Async support
 
